@@ -2,9 +2,12 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/Lib" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/Scripts" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/share" />
+      <excludeFolder url="file://$MODULE_DIR$/module_python/processed_data" />
+      <excludeFolder url="file://$MODULE_DIR$/module_python/video" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (纯Python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
